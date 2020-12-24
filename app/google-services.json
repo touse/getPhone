@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "848683494868",
+    "firebase_url": "https://finalgetphone.firebaseio.com",
+    "project_id": "finalgetphone",
+    "storage_bucket": "finalgetphone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848683494868:android:087458ebcb1a100e623a41",
+        "android_client_info": {
+          "package_name": "com.example.getphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848683494868-sa5itjrk7v5eh0a1n9pffrbbvnk5cj5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmplBmp9PW5e2RjSux7201lWFiBjLWbG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848683494868-sa5itjrk7v5eh0a1n9pffrbbvnk5cj5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
